@@ -1,6 +1,8 @@
 # 👋 Bonjour, je suis Adel 
 
 💻 **Développeur Web/logiciel** passionné par la création d'applications modernes et performantes.  
+Je développe des sites web interactifs, des applications mobiles, et des logiciels personnalisés pour répondre aux besoins uniques des utilisateurs.
+
 
 ---
 
