@@ -31,7 +31,7 @@
 
 ## 📫 Contact  
 
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/adel-sidi-ahmed/)) (à remplacer avec ton lien)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/adel-sidi-ahmed/) 
 - ✉️ [Email](mailto:adelsidiahmed2020@gmail.com)  
 
 ---
