@@ -3,6 +3,9 @@
 💻 **Développeur Web/logiciel** passionné par la création d'applications modernes et performantes.  
 
 ---
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="200">
+</p>
 
 ## 🌟 À propos de moi  
 - 🎯 **Objectif actuel** : Développer une application de sport en Kotlin.  
