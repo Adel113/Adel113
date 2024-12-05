@@ -2,12 +2,6 @@
 
 💻 **Développeur Web/logiciel** passionné par la création d'applications modernes et performantes.  
 Je développe des sites web interactifs, des applications mobiles, et des logiciels personnalisés pour répondre aux besoins uniques des utilisateurs.
-
-## 🎯 Achievements
-
-![Pair Extraordinaire](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Fprofile%2Fachievements%2Fpair-extraordinaire-default.png_Extraordinaire-0077B5?style=flat&logo=github&logoColor=white)![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-28A745?style=flat&logo=github&logoColor=white)![Pull Shark](https://img.shields.io/badge/Achievement-Pull_Shark-FF4500?style=flat&logo=github&logoColor=white)
-
-
 ---
 
 
