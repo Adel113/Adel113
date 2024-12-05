@@ -38,14 +38,13 @@
 - **Application de sport**  
   Développement d'une application mobile en Kotlin.  
 
-## Stats
+## 📊 Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Adel113&theme=halloween&hide_border=true&border_radius=4.7&locale=fr&mode=weekly" alt="GitHub Streak" />
   </a>
 </p>
----
 
 ## 📫 Contact  
 
