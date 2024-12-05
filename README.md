@@ -27,8 +27,8 @@
 - **Application de sport**  
   Développement d'une application mobile en Kotlin.  
 
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adel113&theme=dark&hide_border=true&border_radius=6&locale=fr&card_width=498)](https://git.io/streak-stats)
+--- Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adel113&theme=halloween&hide_border=true&border_radius=4.7&locale=fr&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
